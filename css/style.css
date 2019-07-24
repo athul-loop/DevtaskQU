@@ -1360,8 +1360,8 @@ a.fa:focus{
 
 @font-face {
   font-family: 'MilestoneScript';
-  src:  url('/fonts/Milestone-Free-Version-Script/MilestoneFreeVersion-Script.otf') format('otf'),
-        url('/fonts/Milestone-Free-Version-Script/milestonefreeversion-script-webfont.woff') format('woff');
+  src:  url('dist/fonts/Milestone-Free-Version-Script/MilestoneFreeVersion-Script.otf') format('otf'),
+        url('dist/fonts/Milestone-Free-Version-Script/milestonefreeversion-script-webfont.woff') format('woff');
 }
 @font-face {
   font-family: 'MyWebFontw';
