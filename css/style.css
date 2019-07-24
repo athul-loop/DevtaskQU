@@ -1293,8 +1293,8 @@ a.fa:focus{
 
 @font-face {
   font-family: 'MilestoneScript';
-  src:  url('./fonts/MilestoneFreeVersion-Script.otf') format('otf'),
-        url('./fonts/Milestone-Free-Version-Script/milestonefreeversion-script-webfont.woff') format('woff');
+  src:  url({{ storage_path('./fonts/MilestoneFreeVersion-Script.otf') }}) format('otf'),
+        url({{ storage_path('./fonts/Milestone-Free-Version-Script/milestonefreeversion-script-webfont.woff') }}) format('woff');
 }
 @font-face {
   font-family: 'MyWebFontw';
