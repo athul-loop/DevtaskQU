@@ -1360,8 +1360,8 @@ a.fa:focus{
 
 @font-face {
   font-family: 'MilestoneScript';
-  src:  url('/work/athultemplatehtml/qudevtask_v1.1/HTML/dist/fonts/Milestone-Free-Version-Script/MilestoneFreeVersion-Script.otf') format('otf'),
-        url('/work/athultemplatehtml/qudevtask_v1.1/HTML/dist/fonts/Milestone-Free-Version-Script/milestonefreeversion-script-webfont.woff') format('woff');
+  src:  url('/fonts/Milestone-Free-Version-Script/MilestoneFreeVersion-Script.otf') format('otf'),
+        url('/fonts/Milestone-Free-Version-Script/milestonefreeversion-script-webfont.woff') format('woff');
 }
 @font-face {
   font-family: 'MyWebFontw';
