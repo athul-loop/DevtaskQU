@@ -1360,17 +1360,17 @@ a.fa:focus{
 
 @font-face {
   font-family: 'MilestoneScript';
-  src:  url('dist/fonts/Milestone-Free-Version-Script/MilestoneFreeVersion-Script.otf') format('otf'),
-        url('dist/fonts/Milestone-Free-Version-Script/milestonefreeversion-script-webfont.woff') format('woff');
+  src:  url('./fonts/Milestone-Free-Version-Script/MilestoneFreeVersion-Script.otf') format('otf'),
+        url('./fonts/Milestone-Free-Version-Script/milestonefreeversion-script-webfont.woff') format('woff');
 }
 @font-face {
   font-family: 'MyWebFontw';
-  src: url('/fonts/MilestoneFreeVersion-Script.otf'); /* IE9 Compat Modes */
-  src: url('/fonts/MilestoneFreeVersion-Script.otf?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('/fonts/MilestoneFreeVersion-Script.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/fonts/MilestoneFreeVersion-Script.woff') format('woff'), /* Pretty Modern Browsers */
-       url('/work/athultemplatehtml/qudevtask_v1.1/HTML/dist/fonts/Myriad Pro Bold SemiExtended.ttf')  format('truetype'), /* Safari, Android, iOS */
-       url('/fonts/MilestoneFreeVersion-Script.svg') format('svg'); /* Legacy iOS */
+  src: url('./fonts/MilestoneFreeVersion-Script.otf'); /* IE9 Compat Modes */
+  src: url('./fonts/MilestoneFreeVersion-Script.otf?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/MilestoneFreeVersion-Script.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/MilestoneFreeVersion-Script.woff') format('woff'), /* Pretty Modern Browsers */
+       url('./fonts/Myriad Pro Bold SemiExtended.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/MilestoneFreeVersion-Script.svg') format('svg'); /* Legacy iOS */
 }
 .lead{
   font-size: 25px;
